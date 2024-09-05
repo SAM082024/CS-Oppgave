@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\bin\Debug\net8.0\CS Oppgave.exe
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\bin\Debug\net8.0\CS Oppgave.deps.json
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\bin\Debug\net8.0\CS Oppgave.runtimeconfig.json
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\bin\Debug\net8.0\CS Oppgave.dll
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\bin\Debug\net8.0\CS Oppgave.pdb
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.dll
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\refint\CS Oppgave.dll
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.pdb
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\CS Oppgave.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Desktop\CS Oppgave\obj\Debug\net8.0\ref\CS Oppgave.dll
