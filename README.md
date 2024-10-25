@@ -1,2 +1,2 @@
 # First Code Challenge
-Further familiarizing myself with C# in Visual Studio Code by declaring variable types and methods.
+<p><strong>Note</strong></p>Further familiarizing myself with C# in Visual Studio Code by declaring variable types and methods.
